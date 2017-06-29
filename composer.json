@@ -1,0 +1,19 @@
+{
+	"name": "hans2103/iwd_all",
+	"description": "IWD Agencies base plugin required by their Magento 1 modules",
+	"version": "2.2",
+	"type": "magento-module",
+	"keywords": [
+		"Magento Plugin",
+		"jQuery"
+	],
+	"homepage": "https://www.iwdagency.com/extensions/",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "IWD Agency",
+			"homepage": "https://www.iwdagency.com",
+			"role": "Developer"
+		}
+	]
+}
